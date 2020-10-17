@@ -1,5 +1,5 @@
 {
-  "name": "rxjsx",
+  "name": "observable-jsx",
   "version": "0.0.1",
   "description": "rxjs + JSX",
   "main": "dist/es5/index.js",
