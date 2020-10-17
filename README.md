@@ -1,2 +1,2 @@
-# rxjsx
+# observable-jsx
 rxjs + JSX

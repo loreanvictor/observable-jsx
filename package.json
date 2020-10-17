@@ -1,6 +1,6 @@
 {
   "name": "observable-jsx",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "rxjs + JSX",
   "main": "dist/es5/index.js",
   "module": "dist/es6/index.js",
